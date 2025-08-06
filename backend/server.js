@@ -1,4 +1,3 @@
-// Tải biến môi trường
 require('dotenv').config();
 
 const express = require('express');
